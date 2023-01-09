@@ -4,3 +4,5 @@ de arquivoscd ..
 
 
 Testando clone criando no 2
+
+Teste LOg 
